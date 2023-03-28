@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/IOCP-40AEF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOCKET-EF2D5E?style=for-the-badge"/>
+
 </div>
 
 
