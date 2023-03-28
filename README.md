@@ -7,7 +7,7 @@
 </div>
 
 # 안녕하세요!👋
-게임 서버 개발자를 희망하고 있습니다.
+게임 서버 개발자를 희망하고 있습니다. 
 
 <a href="https://rupso.notion.site/31e0eee855334860bae7e1b0fd965042">
 <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
@@ -32,7 +32,7 @@ w99@kakao.com
 
 <br/>
    
-# 📚other 
+### 📚other 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash5270)](https://solved.ac/ash5270)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash5270&layout=compact)](https://github.com/ash5270/github-readme-stats)
