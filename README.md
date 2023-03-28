@@ -10,7 +10,7 @@
 <br/>
 
 
-### 👍Skills   
+# 👍Skills   
 <div align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/>
@@ -30,7 +30,8 @@
 <br/>
 
 </div>
-### 📚other 
+
+# 📚other 
 <div>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash5270)](https://solved.ac/ash5270)
