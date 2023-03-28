@@ -1,7 +1,9 @@
 <div align="center">
    <div>
      
-  ![header](https://capsule-render.vercel.app/api?type=Soft&text=ash5270)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20ash5270%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+
 </div>
 <br/>
 <br/>
