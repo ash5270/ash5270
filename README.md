@@ -5,15 +5,10 @@
 
 
 </div>
-
+<br/>
+<br/>
+<br/>
 ---
-
-<br/>
-<br/>
-<br/>
-
-   
-   
 ### Skill    
    
 <div align="center">
@@ -23,13 +18,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
----
+
 
 <br/>
 <br/>
 <br/>
    
-
+---
 ### 알고리즘 
 <div>
   
