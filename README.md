@@ -32,7 +32,7 @@
 </div>
 
 # 📚other 
-<div>
+<div  align="left">
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash5270)](https://solved.ac/ash5270)
 
