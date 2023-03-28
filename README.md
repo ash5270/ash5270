@@ -6,8 +6,6 @@
 
 </div>
 <br/>
-<br/>
-<br/>
 
 
 # 👍Skills   
@@ -21,10 +19,6 @@
 
 </div>
 
-
-
-<br/>
-<br/>
 <br/>
    
 # 📚other 
