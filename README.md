@@ -10,12 +10,8 @@
 게임 서버 개발자를 희망하고 있습니다.<br/> 
 또한 게임 클라이언트, 게임 엔진 UNITY,UNREAL에 관심이 있습니다. 
 
-<a href="https://rupso.notion.site/31e0eee855334860bae7e1b0fd965042">
-<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-</a>
-
 ### ☎️Contacts
-w99@kakao.com
+w99@kakao.com/rupso.dev@gmail.com
 
 <br/>
 
