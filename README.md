@@ -7,11 +7,7 @@
 </div>
 
 # 안녕하세요!👋
-게임 서버 개발자를 희망하고 있습니다.<br/> 
-또한 게임 클라이언트, 게임 엔진 UNITY,UNREAL에 관심이 있습니다. 
-
-### ☎️Contacts
-w99@kakao.com/rupso.dev@gmail.com
+게임 개발자입니다!
 
 <br/>
 
@@ -29,11 +25,6 @@ w99@kakao.com/rupso.dev@gmail.com
 
 <br/>
    
-### 📚other 
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash5270)](https://solved.ac/ash5270)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash5270&layout=compact)](https://github.com/ash5270/github-readme-stats)
-
 </div>
 
 
